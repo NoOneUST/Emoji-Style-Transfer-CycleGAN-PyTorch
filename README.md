@@ -1,6 +1,6 @@
 # CycleGAN-Tensorflow
 ## Overview
-We implement cycleGAN with Tensorflow to do emoji style transer
+We implement cycleGAN with Tensorflow to do emoji style transfer.
 
 ## Experiment Result
                                                       Images generated
