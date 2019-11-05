@@ -1,6 +1,6 @@
-# Emoji style transer based on CycleGAN with Tensorflow
+# Emoji style transer based on CycleGAN with PyTorch
 ## Overview
-We implement cycleGAN with Tensorflow to do emoji style transfer.
+We implement cycleGAN with PyTorch to do emoji style transfer.
 
 ## Experiment Result
                                                       Images generated
